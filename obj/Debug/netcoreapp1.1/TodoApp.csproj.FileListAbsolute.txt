@@ -1,0 +1,8 @@
+/Mine/Development/DotNet Core/TodoApp/bin/Debug/netcoreapp1.1/TodoApp.deps.json
+/Mine/Development/DotNet Core/TodoApp/bin/Debug/netcoreapp1.1/TodoApp.runtimeconfig.json
+/Mine/Development/DotNet Core/TodoApp/bin/Debug/netcoreapp1.1/TodoApp.runtimeconfig.dev.json
+/Mine/Development/DotNet Core/TodoApp/bin/Debug/netcoreapp1.1/TodoApp.dll
+/Mine/Development/DotNet Core/TodoApp/bin/Debug/netcoreapp1.1/TodoApp.pdb
+/Mine/Development/DotNet Core/TodoApp/obj/Debug/netcoreapp1.1/TodoApp.AssemblyInfo.cs
+/Mine/Development/DotNet Core/TodoApp/obj/Debug/netcoreapp1.1/TodoApp.dll
+/Mine/Development/DotNet Core/TodoApp/obj/Debug/netcoreapp1.1/TodoApp.pdb
